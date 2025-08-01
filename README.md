@@ -32,4 +32,3 @@ cd ./system
 python main.py -data Cifar100 -ncl 100 -m CNN -algo FedHSD -gr 200 -did 0 -jr 1.0 -ls 5 -lbs 128 -bt 1.0 -lam 1.0 -sg 0.9
 ```
 
-# FedHSD
